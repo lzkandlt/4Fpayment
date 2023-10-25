@@ -36,5 +36,5 @@
 # 联系方式-如有业务沟通、咨询、服务等 可通过以下方式联系
 
 ## Email: sexyCs258369@hotmail.com
-## Telegram: @KG8258  ![点击跳转telegram](https://t.me/@KG8258)
+## Telegram: @KG8258 [点击跳转telegram添加好友](https://t.me/@KG8258)
 ## QQ:
