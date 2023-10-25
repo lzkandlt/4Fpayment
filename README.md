@@ -5,12 +5,19 @@
 4F支付系统，弥补了现有的商业体系支付系统的不足之处，可以通过一次对接，满足市面上绝大部分的支付方式，帮助商家可以更好的，收取营业资金
 
 # 系统-运营端说明介绍
+## 数据总体展示
+![img](https://raw.githubusercontent.com/lzkandlt/4Fpayment/main/mgr-stat.png)
+
+
 ## 商户管理展示
+![img](https://raw.githubusercontent.com/lzkandlt/4Fpayment/main/mgr-merchant.png)
+
 
 ## 总体订单管理展示
+![img](https://raw.githubusercontent.com/lzkandlt/4Fpayment/main/mgr-order.png)
 
 ## 支付渠道展示
-
+![img](https://raw.githubusercontent.com/lzkandlt/4Fpayment/main/mgr-channel.png)
 
 # 系统-商户端说明介绍
 ## 主页模块展示
