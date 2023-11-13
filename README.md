@@ -43,5 +43,5 @@
 
 ## Youtube视频介绍地址: https://www.youtube.com/watch?v=uGe2k2Sh39o&t=9s [点击跳转](https://www.youtube.com/watch?v=uGe2k2Sh39o&t=9s)
 ## Email: sexyCs258369@hotmail.com
-## Telegram: @KG8258 [点击跳转telegram添加好友](https://t.me/KG8258)
+## Telegram: @KG0730 [点击跳转telegram添加好友](https://t.me/KG0730)
 ## QQ:
