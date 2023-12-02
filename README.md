@@ -37,6 +37,8 @@
 系统开发了强壮的智能接口，可智能容纳市面上绝大部分的支付通道，可实现低代码编辑对接，无需修改代码
 
 # Telegram 营销管理
+![img](https://github.com/lzkandlt/4Fpayment/blob/main/telegramGroup.png?raw=true)
+
 
 
 # 联系方式-如有业务沟通、咨询、服务等 可通过以下方式联系
