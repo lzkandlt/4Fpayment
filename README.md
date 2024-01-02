@@ -40,6 +40,8 @@
 ![img](https://github.com/lzkandlt/4Fpayment/blob/main/telegramGroup.png?raw=true)
 
 # 对外收银台
+![img](https://raw.githubusercontent.com/lzkandlt/4Fpayment/main/%E6%94%B6%E9%93%B6%E5%8F%B0.png)
+
 
 # 联系方式-如有业务沟通、咨询、服务等 可通过以下方式联系
 
