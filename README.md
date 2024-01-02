@@ -1,4 +1,4 @@
-# 4Fpayment 最好的四方支付，聚合支付系统 https://www.pay163.icu (支持微信、支付、数字人民币、USDT等市场主流交易通道)
+# 4Fpayment 最好的四方支付，聚合支付系统 https://www.pay163.icu (支持微信、支付宝、云闪付、数字人民币、USDT等市场主流交易通道)
 四方支付，聚合支付，商户最好的支付助手，帮您安全，放心，收单
 
 # 4F支付系统总体介绍
@@ -39,7 +39,7 @@
 # Telegram 营销管理
 ![img](https://github.com/lzkandlt/4Fpayment/blob/main/telegramGroup.png?raw=true)
 
-
+# 对外收银台
 
 # 联系方式-如有业务沟通、咨询、服务等 可通过以下方式联系
 
